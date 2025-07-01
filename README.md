@@ -51,6 +51,9 @@ Add your screenshots or video clips here
 ✅ Cars detected in motion
 ![Image](https://github.com/user-attachments/assets/7bf2716c-565a-4fdc-8860-060756fda538)
 
+✅ Full Body detected in motion
+![Image](https://github.com/user-attachments/assets/2f3a8447-94ac-4673-b79b-10be2b06fca4)
+
 ---
 
 ## 💡 Notes
